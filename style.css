@@ -33,3 +33,23 @@ body {
     background-color: #202020;
     color: #b9b9b9;
 }
+
+.topnav {
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #333;
+    color: #ffffff;
+}
+
+img {
+    display: inline-block;
+    
+    margin: 50px;
+    width: 500px;
+    border-radius: 20px;
+
+}
+
